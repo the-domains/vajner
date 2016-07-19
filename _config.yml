@@ -1,0 +1,28 @@
+name: vajner
+favicon: null
+layout_spectrum: 0.878357423003763
+typography_spectrum: 0.8629888398572803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7002656862605363
+  lightness: 0.8593604427296668
+  saturation: 0.44879127643071115
+  rhythmicContrast: 0.6721328445710242
+purpose: []
